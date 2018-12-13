@@ -1,5 +1,5 @@
 ?[Quelle est l'autre nom de l'architecture Hexagonale ?]
--[ ] “Ports & Adapter“
+-[x] “Ports & Adapter“
 -[ ] “Architecture Oigion“
 -[ ] “Architecturer En Couche“
 -[ ] “Clean Architecture“
