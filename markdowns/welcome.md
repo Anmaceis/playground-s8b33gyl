@@ -1,14 +1,15 @@
-?[Quelle est l'autre nom de l'architecture Hexagonale ?]
--[x] “Ports & Adapter“
--[ ] “Architecture Oigion“
--[ ] “Architecturer En Couche“
--[ ] “Clean Architecture“
 
 ?[Les différents type de pattern ?]
 -[x] Architecture
 -[ ] Structuration
 -[x] Conception
 -[x] Idiotisme 
+
+?[Quelle est l'autre nom de l'architecture Hexagonale ?]
+-[x] “Ports & Adapter“
+-[ ] “Architecture Oigion“
+-[ ] “Architecturer En Couche“
+-[ ] “Clean Architecture“
 
 ?[role des ports primaire ?]
 -[x] Peut être utilisé par des adaptateurs primaires pour interroger la partie métier de l’application
