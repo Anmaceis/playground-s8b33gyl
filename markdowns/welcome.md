@@ -23,6 +23,17 @@
 -[x] Le domaine métier doit être séparer de l'infrastructure
 -[x] Le domaine métier n'est composé que de classes lié au métier
 
+?[L'utilisation de l'architecture hexagonale permet-elle d'allonger la durée de vie des applications ?]
+-[x] Vrai
+-[ ] Faux
+
+?[Lequel de ces principes SOLID l'architecture hexagonale permet-elle de satisfaire ?]
+-[ ] Single Responsability Principle
+-[ ] Open-Closed Principle
+-[ ] Liskov Substitution Principle
+-[x] Interface Segregation Principle
+-[x] Dépencie Inversion Principle
+
 ?[role des ports primaire ?]
 -[x] Peut être utilisé par des adaptateurs primaires pour interroger la partie métier de l’application
 -[ ] Peut être utilisé par des adaptateurs secondaires pour interroger la partie métier de l’application
